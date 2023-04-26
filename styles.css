@@ -1,1 +1,67 @@
 /*  your css code here. If applicable */
+div{
+    position: relative;
+    top: 50px;
+    left: 50px;
+    width: 500px;
+    height: 700px;
+    background-color: aliceblue;
+}
+img{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    height: 250px;
+    width: 400px;
+}
+.h1{
+    position: relative;
+    top: 320px;
+    left: 35px;
+    font-size: 75px;
+}
+.p-1{
+    position: absolute;
+    top: 370px;
+    left: 120px;
+    font-size: 40px;
+    font-weight: 150px;
+}
+.p-2{
+    position: absolute;
+    top: 430px;
+    left: 110px;
+    font-size: 30px;
+}
+.p-3{
+    position: absolute;
+    top: 460px;
+    left: 99px;
+    font-size: 30px;
+}
+.p-4{
+    position: absolute;
+    top: 490px;
+    left: 90px;
+    font-size: 30px;
+}
+.p-5{
+    position: absolute;
+    top: 530px;
+    left: 200px;
+    font-size: 30px;
+}
+button{
+    position: absolute;
+    top: 620px;
+    width: 150px;
+    left:140px;
+    height: 60px;
+    border-radius: 30px;
+    font-size: 25px;
+    background-color: rgb(245, 102, 6);
+    display: flex;
+}
+.btn-1{
+    text-align: end;
+}
